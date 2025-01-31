@@ -1,1 +1,1 @@
-This file is only for fun
+Computer Configuration Query
